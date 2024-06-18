@@ -1,0 +1,11 @@
+da turri gli zip, estrai common, rinomina con bsp, 27k
+
+-u .999 non considerlarli
+
+da un60 in poi,
+
+*tar.gz, estrai commonlicense.7z, pusha in folder share point 
+
+riesegui cosa per jmobile, tutti i progetti
+
+in share point folder per ogni applicativo
